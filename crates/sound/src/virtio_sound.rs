@@ -1,6 +1,4 @@
 // SPDX-License-Identifier: Apache-2.0 or BSD-3-Clause
-#![allow(dead_code)] //TODO: remove
-
 use vm_memory::{ByteValued, Le32, Le64};
 
 // virtqueues
